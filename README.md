@@ -151,11 +151,11 @@ This software is built on [Visual Studio Community](https://visualstudio.microso
 - [GoogleAuthenticator](https://github.com/BrandonPotter/GoogleAuthenticator)
 - [QRCoder](https://github.com/codebude/QRCoder)
 
-#####  Web GIS Libraries
+#####  Web GIS Packages
 - [OpenLayers](https://openlayers.org)
 - [Turfjs, TURF](https://turfjs.org)
 
-#####  Web GUI Libraries
+#####  Web GUI Packages
 - [ol-ext](https://viglino.github.io/ol-ext)
 - [ol-layerswitcher](https://github.com/walkermatt/ol-layerswitcher)
 - [sidebar-v2](https://github.com/Turbo87/sidebar-v2)
@@ -195,4 +195,4 @@ This software code is licensed under the BSD license, located in OpenCellular [L
 
 - [Website](http://18.220.148.72/cnip)
 - [Source code](https://github.com/Telecominfraproject/OpenCellular/tree/cnip/software/cnip)
-- [Issues]()
+- [Discussion and Issues](https://github.com/alirazaanis/Community-Network-Interactive-Planner/issues)
