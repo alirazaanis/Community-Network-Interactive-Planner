@@ -2,37 +2,50 @@
 
 # [Community Network Interactive Planner](http://18.220.148.72/cnip)
 
-A Cloud Based Radio Network Planning And Design Design Tool
+A Cloud Based Radio Network Planning And Design Tool
 
 Distributed Architecture, Easy to use UI, Advanced Software Algorithm using Machine Learning
 
-## Features
+## Key Features
 
-- Coverage predictions for **Path Loss**, **Field Strength** and **Received Power** using [SPLAT](https://www.qsl.net/kd2bd/splat.html)
-
-- Propagation models **Longley-Rice Irregular Terrain (ITM)** and **Irregular Terrain With Obstructions (ITWOM v3.0)** for spectrum  between **20 MHz** and **20 GHz**
-
-- Radio Access Technologies Supported: **2G**, **4G** and 5GNR (coming soon)
-
-- Backhaul Technologies: **PTMP**, **PTP** and Fiber Planning (coming soon)
-
-- Pre-loaded with **Global 30m** and **90m** [U.S. Geological Survey](https://usgs.gov) [SRTM](https://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission) data 
-
+### Pre-loaded with several Open Source datasets
+- **Global 30m** and **90m** [U.S. Geological Survey](https://usgs.gov) [SRTM](https://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission) data 
 - Tile Maps: [OpenStreetMap](https://openstreetmap.org), [OpenTopoMap](https://opentopomap.org), [stamen](http://maps.stamen.com) (Toner, Terrain & Watercolor layers) and [Thunderforest](https://thunderforest.com) (Transport, Cycle, Landscape & Outdoor layers)
+- Adding more soon
 
+### Data Sources
+- [30m SRTM](https://e4ftl01.cr.usgs.gov/MEASURES/SRTMGL1.003/2000.02.11/)
+- [90m SRTM](https://e4ftl01.cr.usgs.gov/MEASURES/SRTMGL3.003/2000.02.11/)
+- [OpenStreetMap](https://openstreetmap.org)
+- [OpenTopoMap](https://opentopomap.org)
+- [stamen](http://maps.stamen.com)
+- [Thunderforest](https://thunderforest.com)
+ 
+### Infrastructure
+- AWS Cloud with Distributed Architecture
+
+### Software Algorithm
+- k-means Clustering ML (Automatic Site Planning)
+- Minimum Spanning Tree Protocol (Shortest Path)
+- Delaunay Triangulation (Neighboring Interferers)
+
+### Technologies Supported
+- Radio Access: **2G**, **4G** and 5GNR (coming soon)
+- Backhaul: **PTMP**, **PTP** and Fiber Planning (coming soon)
+
+### UI Feature
+- RF predictions for **Path Loss**, **Field Strength** and **Received Power** using [SPLAT](https://www.qsl.net/kd2bd/splat.html)
+- Propagation models **Longley-Rice Irregular Terrain (ITM)** and **Irregular Terrain With Obstructions (ITWOM v3.0)** for spectrum  between **20 MHz** and **20 GHz**
 - **Predict Sites** analysis for automatic site placement to cover the given polygon area using [k-means clustering ML](https://en.wikipedia.org/wiki/K-means_clustering)
-
 - Automatic **Antenna Height** prediction by elevating site antenna above average terrain and clutter heights within the cell radius to meet line of sight
-
 - **Best Candidate** analysis to find best site from coverage perspective for given polygon area from specified candidates  based on **Received Power** by analyzing polygon area covered by each power level distribution for each candidate
-
 - Automatic **LTE PCI, GSM Frequency and BSIC** planning by computing interference cost matrix based on sites distance and using [Delaunay triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation) to detect neighboring interferers
-
 - Automatic shortest path **Microwave Links** planning using [Kruskal Minimum Spanning Tree](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm)
-
 - Automatic **LOS Height** prediction for desired [Fresnel Zone](https://en.wikipedia.org/wiki/Fresnel_zone) clearance for **Point to Point to Multipoint** Microwave Links
-
 - **Path Profile** analysis for Microwave Links based on [SRTM](https://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission) [DTM](https://en.wikipedia.org/wiki/Digital_elevation_model) data
+
+### Reports
+- Charts, Tables, Exports (PNG, CSV, GeoJSON, KML)
 
 ## User Guide
 
@@ -141,7 +154,6 @@ This software is built on [Visual Studio Community](https://visualstudio.microso
 
 #####  Database
 - [PostgreSQL](https://postgresql.org)
-
 
 #####  GIS Packages
 - [PostGIS](https://postgis.net)
