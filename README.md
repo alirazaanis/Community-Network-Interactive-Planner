@@ -33,7 +33,7 @@ Distributed Architecture, Easy to use UI, Advanced Software Algorithm using Mach
 - Radio Access: **2G**, **4G** and 5GNR (coming soon)
 - Backhaul: **PTMP**, **PTP** and Fiber Planning (coming soon)
 
-### UI Feature
+### UI Features
 - RF predictions for **Path Loss**, **Field Strength** and **Received Power** using [SPLAT](https://www.qsl.net/kd2bd/splat.html)
 - Propagation models **Longley-Rice Irregular Terrain (ITM)** and **Irregular Terrain With Obstructions (ITWOM v3.0)** for spectrum  between **20 MHz** and **20 GHz**
 - **Predict Sites** analysis for automatic site placement to cover the given polygon area using [k-means clustering ML](https://en.wikipedia.org/wiki/K-means_clustering)
