@@ -12,9 +12,9 @@ Distributed Architecture, Easy to use UI, Advanced Software Algorithm using Mach
 
 - Propagation models **Longley-Rice Irregular Terrain (ITM)** and **Irregular Terrain With Obstructions (ITWOM v3.0)** for spectrum  between **20 MHz** and **20 GHz**
 
-- Radio Access Technologies Supported: 2G, 4G and 5GNR (coming soon)
+- Radio Access Technologies Supported: **2G**, **4G** and 5GNR (coming soon)
 
-- Backhaul Technologies: PTMP, PTP and Fiber Planning (coming soon)
+- Backhaul Technologies: **PTMP**, **PTP** and Fiber Planning (coming soon)
 
 - Pre-loaded with **Global 30m** and **90m** [U.S. Geological Survey](https://usgs.gov) [SRTM](https://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission) data 
 
