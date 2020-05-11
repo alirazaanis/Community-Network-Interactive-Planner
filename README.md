@@ -26,8 +26,8 @@ Distributed Architecture, Easy to use UI, Advanced Software Algorithm using Mach
 
 ### Software Algorithm
 - [k-means clustering ML](https://en.wikipedia.org/wiki/K-means_clustering) (Automatic Site Planning)
-- [Kruskal Minimum Spanning Tree](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm) (Shortest Path)
-- [Delaunay triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation) (Neighboring Interferers)
+- [Kruskal Minimum Spanning Tree](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm) (Shortest Path Links)
+- [Delaunay triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation) (To Detect Neighboring Interferers)
 
 ### Technologies Supported
 - Radio Access: **2G**, **4G** and 5GNR (coming soon)
