@@ -41,7 +41,7 @@ Distributed Architecture, Easy to use UI, Advanced Software Algorithm using Mach
 - **Best Candidate** analysis to find best site from coverage perspective for given polygon area from specified candidates  based on **Received Power** by analyzing polygon area covered by each power level distribution for each candidate
 - Automatic **LTE PCI, GSM Frequency and BSIC** planning by computing interference cost matrix based on sites distance and using [Delaunay triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation) to detect neighboring interferers
 - Automatic shortest path **Microwave Links** planning using [Kruskal Minimum Spanning Tree](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm)
-- Automatic **LOS Height** prediction for desired [Fresnel Zone](https://en.wikipedia.org/wiki/Fresnel_zone) clearance for **Point to Point to Multipoint** Microwave Links
+- Automatic **LOS Height** prediction for desired [Fresnel Zone](https://en.wikipedia.org/wiki/Fresnel_zone) clearance for Microwave Links
 - **Path Profile** analysis for Microwave Links based on [SRTM](https://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission) [DTM](https://en.wikipedia.org/wiki/Digital_elevation_model) data
 
 ### Reports
@@ -86,7 +86,7 @@ Click below picture to watch video
 #### Predicting Microwave Links
 
 - Automatic shortest path **Microwave Links** planning using [Kruskal Minimum Spanning Tree](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm)
-- Automatic **LOS Height** prediction for desired [Fresnel Zone](https://en.wikipedia.org/wiki/Fresnel_zone) clearance for **Point to Point to Multi-point** Microwave Links
+- Automatic **LOS Height** prediction for desired [Fresnel Zone](https://en.wikipedia.org/wiki/Fresnel_zone) clearance for Microwave Links
 
 Click below picture to watch video
 [![](img/06PredictingMicrowaveLinks.png)](https://youtu.be/VUMqltj37_I)
