@@ -14,8 +14,8 @@ Distributed Architecture, Easy to use UI, Advanced Software Algorithm using Mach
 - Adding more soon
 
 ### Data Sources
-- [30m SRTM](https://e4ftl01.cr.usgs.gov/MEASURES/SRTMGL1.003/2000.02.11/)
-- [90m SRTM](https://e4ftl01.cr.usgs.gov/MEASURES/SRTMGL3.003/2000.02.11/)
+- [Global 30m U.S. Geological Survey SRTM data](https://e4ftl01.cr.usgs.gov/MEASURES/SRTMGL1.003/2000.02.11/)
+- [Global 90m U.S. Geological Survey SRTM data](https://e4ftl01.cr.usgs.gov/MEASURES/SRTMGL3.003/2000.02.11/)
 - [OpenStreetMap](https://openstreetmap.org)
 - [OpenTopoMap](https://opentopomap.org)
 - [stamen](http://maps.stamen.com)
