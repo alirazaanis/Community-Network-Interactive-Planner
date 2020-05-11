@@ -22,12 +22,12 @@ Distributed Architecture, Easy to use UI, Advanced Software Algorithm using Mach
 - [Thunderforest](https://thunderforest.com)
  
 ### Infrastructure
-- AWS Cloud with Distributed Architecture
+- [AWS Cloud](https://aws.amazon.com/what-is-aws/) with Distributed Architecture
 
 ### Software Algorithm
-- k-means Clustering ML (Automatic Site Planning)
-- Minimum Spanning Tree Protocol (Shortest Path)
-- Delaunay Triangulation (Neighboring Interferers)
+- [k-means clustering ML](https://en.wikipedia.org/wiki/K-means_clustering) (Automatic Site Planning)
+- [Kruskal Minimum Spanning Tree](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm)(Shortest Path)
+- [Delaunay triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation) (Neighboring Interferers)
 
 ### Technologies Supported
 - Radio Access: **2G**, **4G** and 5GNR (coming soon)
