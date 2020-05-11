@@ -2,9 +2,9 @@
 
 # [Community Network Interactive Planner](http://18.220.148.72/cnip)
 
-A Cloud Based, Radio Propagation And Network Design Tool
+A Cloud Based, Radio Network Planning And Design Design Tool
 
-Fast, Easy, Reliable And Full Of Unique Insights
+Distributed Architecture, Easy to use UI, Advanced Software Algorithm using Machine Learning
 
 ## Features
 
@@ -12,7 +12,9 @@ Fast, Easy, Reliable And Full Of Unique Insights
 
 - Propagation models **Longley-Rice Irregular Terrain (ITM)** and **Irregular Terrain With Obstructions (ITWOM v3.0)** for spectrum  between **20 MHz** and **20 GHz**
 
-- **GSM** and **LTE** technologies supported
+- Radio Access Technologies Supported: 2G, 4G and 5GNR (coming soon)
+
+- Backhaul Technologies: PTMP, PTP and Fiber Planning (coming soon)
 
 - Pre-loaded with **Global 30m** and **90m** [U.S. Geological Survey](https://usgs.gov) [SRTM](https://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission) data 
 
