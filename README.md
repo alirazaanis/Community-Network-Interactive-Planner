@@ -2,7 +2,7 @@
 
 # [Community Network Interactive Planner](http://18.220.148.72/cnip)
 
-A Cloud Based, Radio Network Planning And Design Design Tool
+A Cloud Based Radio Network Planning And Design Design Tool
 
 Distributed Architecture, Easy to use UI, Advanced Software Algorithm using Machine Learning
 
