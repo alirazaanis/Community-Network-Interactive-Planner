@@ -26,7 +26,7 @@ Distributed Architecture, Easy to use UI, Advanced Software Algorithm using Mach
 
 ### Software Algorithm
 - [k-means clustering ML](https://en.wikipedia.org/wiki/K-means_clustering) (Automatic Site Planning)
-- [Kruskal Minimum Spanning Tree](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm)(Shortest Path)
+- [Kruskal Minimum Spanning Tree](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm) (Shortest Path)
 - [Delaunay triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation) (Neighboring Interferers)
 
 ### Technologies Supported
