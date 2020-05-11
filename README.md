@@ -10,12 +10,12 @@ Distributed Architecture, Easy to use UI, Advanced Software Algorithm using Mach
 
 ### Pre-loaded with several Open Source datasets
 - **Global 30m** and **90m** [U.S. Geological Survey](https://usgs.gov) [SRTM](https://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission) data 
-- Tile Maps: [OpenStreetMap](https://openstreetmap.org), [OpenTopoMap](https://opentopomap.org), [stamen](http://maps.stamen.com) (Toner, Terrain & Watercolor layers) and [Thunderforest](https://thunderforest.com) (Transport, Cycle, Landscape & Outdoor layers)
+- **Tile Maps**: [OpenStreetMap](https://openstreetmap.org), [OpenTopoMap](https://opentopomap.org), [stamen](http://maps.stamen.com) (Toner, Terrain & Watercolor layers) and [Thunderforest](https://thunderforest.com) (Transport, Cycle, Landscape & Outdoor layers)
 - Adding more soon
 
 ### Data Sources
-- [Global 30m U.S. Geological Survey SRTM data](https://e4ftl01.cr.usgs.gov/MEASURES/SRTMGL1.003/2000.02.11/)
-- [Global 90m U.S. Geological Survey SRTM data](https://e4ftl01.cr.usgs.gov/MEASURES/SRTMGL3.003/2000.02.11/)
+- [Global 30m SRTM](https://e4ftl01.cr.usgs.gov/MEASURES/SRTMGL1.003/2000.02.11/)
+- [Global 90m SRTM](https://e4ftl01.cr.usgs.gov/MEASURES/SRTMGL3.003/2000.02.11/)
 - [OpenStreetMap](https://openstreetmap.org)
 - [OpenTopoMap](https://opentopomap.org)
 - [stamen](http://maps.stamen.com)
